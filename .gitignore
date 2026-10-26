@@ -1,0 +1,6 @@
+.DS_Store
+.rea_tool/
+*.ipa
+extracted_ipa/
+tools/insert_dylib
+*.log
